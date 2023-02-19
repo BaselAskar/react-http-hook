@@ -1,6 +1,6 @@
 {
   "name": "react-http-hook",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "bulid coustome hook for http request",
   "main": "react-http-hook.js",
   "scripts": {
