@@ -1,0 +1,26 @@
+{
+  "name": "react-http-hook",
+  "version": "1.0.1",
+  "description": "bulid coustome hook for http request",
+  "main": "react-http-hook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaselAskar/react-http-hook.git"
+  },
+  "keywords": [
+    "react-http-hook"
+  ],
+  "author": "Basel_Askar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaselAskar/react-http-hook/issues"
+  },
+  "homepage": "https://github.com/BaselAskar/react-http-hook#readme",
+  "dependencies": {
+    "@types/react": "^18.0.26",
+    "react": "^18.2.0"
+  }
+}
